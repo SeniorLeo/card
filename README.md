@@ -2,4 +2,4 @@
 
 ## Результат Вы можете посмотреть тут
 
-[Карточка участрника курса по JS(https://seniorleo.github.io/card/)
+[Карточка участника курса по JS (https://seniorleo.github.io/card/)
